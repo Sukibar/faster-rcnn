@@ -1,0 +1,472 @@
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000026_dog.jpg 211,147,325,255,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000074_car.jpg 46,178,387,335,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000103_bird.jpg 156,48,287,338,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000133_car.jpg 1,1,500,217,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000143_car.jpg 370,105,417,122,2 392,111,500,177,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000181_cat.jpg 46,76,423,321,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000270_dog.jpg 307,190,500,334,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000315_car.jpg 208,209,263,235,2 347,200,384,220,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000336_dog.jpg 115,119,317,316,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000356_car.jpg 141,195,211,241,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000472_bird.jpg 275,65,315,149,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000559_dog.jpg 1,1,500,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000599_car.jpg 263,50,339,81,2 27,78,121,114,2 77,65,149,99,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000620_dog.jpg 205,208,327,337,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000641_cat.jpg 3,85,231,247,3 162,163,482,356,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000660_cat.jpg 48,82,117,192,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000853_cat.jpg 37,345,186,417,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000880_car.jpg 1,106,157,171,2 353,108,394,124,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000953_car.jpg 122,1,233,41,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000982_car.jpg 410,168,490,271,2 144,70,407,278,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001004_cat.jpg 54,113,388,309,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001274_car.jpg 1,114,485,274,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001387_bird.jpg 126,92,284,228,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001660_dog.jpg 142,114,233,192,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001676_dog.jpg 1,11,496,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001716_car.jpg 201,128,429,272,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001717_car.jpg 112,257,202,325,2 65,267,122,295,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001978_bird.jpg 266,172,290,197,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002004_cat.jpg 3,11,375,467,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002116_dog.jpg 190,133,426,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002202_car.jpg 258,201,320,242,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002408_dog.jpg 96,112,280,250,4 254,137,341,263,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002430_dog.jpg 31,116,94,212,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002899_cat.jpg 22,33,500,241,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002943_car.jpg 76,114,413,282,2 412,149,500,235,2 4,117,77,174,2 81,129,158,172,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002977_car.jpg 371,225,491,271,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003052_cat.jpg 25,1,427,273,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003087_bird.jpg 157,84,379,240,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003114_cat.jpg 1,9,500,436,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003161_bird.jpg 165,47,360,360,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003238_dog.jpg 62,104,375,449,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003321_car.jpg 150,151,406,238,1 460,194,500,226,2 405,186,474,221,2 11,206,94,264,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003386_cat.jpg 115,6,494,381,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003420_cat.jpg 122,33,313,373,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003452_car.jpg 1,42,477,307,2 225,33,441,136,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003479_car.jpg 229,109,375,293,2 1,70,132,243,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003577_car.jpg 1,7,500,375,2 1,59,209,230,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003607_cat.jpg 305,242,459,375,4 56,232,194,308,4 163,272,275,325,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003673_bus.jpg 283,186,355,216,1 20,274,114,325,2 244,214,272,241,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003673_car.jpg 283,186,355,216,1 20,274,114,325,2 244,214,272,241,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003755_car.jpg 39,121,294,367,2 238,166,320,279,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003841_cat.jpg 236,12,470,300,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003852_dog.jpg 175,126,341,240,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003932_cat.jpg 49,1,404,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003986_car.jpg 38,61,454,314,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004020_car.jpg 9,1,500,343,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004106_dog.jpg 164,1,420,243,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004182_car.jpg 437,89,488,121,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004265_dog.jpg 11,76,392,253,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004339_car.jpg 1,95,228,178,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004374_cat.jpg 173,70,316,222,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004436_car.jpg 4,96,55,119,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004441_car.jpg 5,1,500,164,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004498_dog.jpg 148,144,178,193,4 345,168,379,189,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004502_car.jpg 148,120,189,152,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004520_bird.jpg 81,140,281,335,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004552_car.jpg 1,1,375,160,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004613_car.jpg 29,12,477,304,1 477,210,500,264,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004667_car.jpg 377,165,415,196,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004767_cat.jpg 20,59,496,295,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004808_bird.jpg 1,1,500,375,0 3,11,99,260,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004900_dog.jpg 21,64,375,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004942_bird.jpg 208,142,474,312,0 35,71,258,240,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004955_car.jpg 65,142,434,259,2 456,159,500,226,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004976_car.jpg 73,39,341,301,1 7,91,82,216,1 15,162,55,223,2 38,162,74,225,2 435,163,473,183,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004998_dog.jpg 131,192,291,300,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005046_dog.jpg 175,207,458,328,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005054_car.jpg 324,108,442,196,2 127,114,216,203,2 35,128,111,221,2 232,105,342,203,2 389,82,500,184,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005134_cat.jpg 1,32,469,333,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005137_dog.jpg 158,109,296,244,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005160_dog.jpg 160,19,278,348,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005186_bird.jpg 152,113,279,315,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005193_cat.jpg 42,1,413,295,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005283_car.jpg 33,45,433,302,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005303_bird.jpg 154,39,485,345,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005325_car.jpg 11,1,471,369,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005335_dog.jpg 1,1,500,332,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005378_car.jpg 144,143,427,270,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005406_dog.jpg 117,24,207,157,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005480_cat.jpg 53,1,178,173,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005522_bird.jpg 170,252,251,316,0 193,381,249,473,0 84,251,138,316,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005534_bird.jpg 119,94,240,191,0 221,180,348,300,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005601_dog.jpg 172,123,316,191,4 195,233,242,293,0 149,159,202,198,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005728_dog.jpg 165,124,307,269,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005800_dog.jpg 1,55,375,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005860_dog.jpg 1,114,371,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005989_car.jpg 75,118,392,260,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006007_dog.jpg 81,30,414,332,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006130_dog.jpg 76,64,500,265,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006316_car.jpg 376,196,494,259,2 321,190,448,264,2 239,183,403,269,2 136,186,345,279,2 12,176,219,281,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006430_cat.jpg 1,15,280,460,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006449_cat.jpg 91,4,352,333,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006461_bird.jpg 189,105,284,144,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006781_cat.jpg 86,1,500,333,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006802_bird.jpg 79,346,121,387,0 136,357,180,391,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006819_car.jpg 61,16,463,341,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006885_car.jpg 68,53,433,154,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006936_car.jpg 305,316,489,375,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006968_dog.jpg 135,77,349,333,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007028_dog.jpg 1,63,441,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007081_dog.jpg 234,55,477,271,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007085_cat.jpg 21,106,353,309,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007167_car.jpg 206,131,456,248,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007195_car.jpg 1,288,72,359,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007197_car.jpg 461,275,500,312,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007208_dog.jpg 127,184,289,305,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007264_car.jpg 196,33,441,156,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007279_dog.jpg 127,65,435,353,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007289_cat.jpg 75,44,379,291,3 126,1,417,139,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007295_car.jpg 217,161,254,253,4 47,200,141,249,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007465_bird.jpg 59,78,393,313,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007471_dog.jpg 1,7,365,338,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007480_car.jpg 256,269,364,332,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007488_bus.jpg 43,60,419,298,1 1,234,50,286,2 446,230,500,258,2 417,239,451,292,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007534_car.jpg 27,182,68,245,4 454,42,500,78,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007548_cat.jpg 45,139,345,373,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007559_dog.jpg 41,83,349,254,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007656_bird.jpg 1,52,377,285,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007661_bird.jpg 235,149,264,181,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007662_cat.jpg 192,78,334,297,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007735_dog.jpg 84,83,450,285,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007770_dog.jpg 137,253,189,292,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007781_dog.jpg 45,139,316,473,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007788_bird.jpg 1,34,372,375,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007804_car.jpg 152,219,500,362,2 188,198,292,240,2 160,201,195,229,2 86,181,138,217,1 293,200,318,213,2 271,200,295,212,2 317,201,336,214,2 137,199,149,212,2 69,193,88,215,2 216,187,271,206,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007819_dog.jpg 1,329,111,496,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007872_bus.jpg 1,281,271,375,2 420,72,500,375,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007875_dog.jpg 186,39,310,317,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007947_car.jpg 1,1,463,331,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007969_bus.jpg 1,1,500,375,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008120_bus.jpg 18,29,471,324,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008125_bird.jpg 219,107,367,333,0 130,119,240,250,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008166_bird.jpg 131,38,419,335,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008343_car.jpg 401,282,493,330,2 236,207,432,333,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008469_bus.jpg 1,1,352,397,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008523_bird.jpg 1,40,447,375,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008549_bus.jpg 35,159,369,300,1 364,185,423,254,1 420,212,495,246,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008590_cat.jpg 180,203,233,287,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008598_bus.jpg 455,131,500,197,1 1,12,456,287,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008684_bus.jpg 213,171,295,260,1 287,170,359,239,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000006_bus.jpg 38,9,286,330,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000054_bus.jpg 58,164,333,347,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000097_car.jpg 185,128,408,215,1 36,162,135,199,2 411,152,467,179,2 462,156,492,179,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000142_dog.jpg 12,184,275,352,4 117,101,379,243,4 199,50,473,228,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000145_dog.jpg 318,189,443,274,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000165_car.jpg 139,139,262,218,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000225_car.jpg 1,230,59,266,2 48,237,110,268,2 87,235,156,271,2 143,246,200,273,2 173,245,228,275,2 234,254,252,273,2 330,258,370,281,2 295,261,307,275,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000282_dog.jpg 177,213,303,427,4 148,129,176,150,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000290_car.jpg 201,161,266,201,1 130,181,141,190,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000452_dog.jpg 34,43,333,491,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000461_car.jpg 375,144,458,176,2 134,147,220,178,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000577_dog.jpg 289,172,355,210,4 41,216,150,329,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000579_bird.jpg 110,28,492,333,0 35,168,230,333,0 14,1,99,245,0 354,1,417,112,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000614_cat.jpg 41,1,468,222,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000619_bird.jpg 141,127,301,328,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000708_car.jpg 49,167,106,191,2 466,174,482,199,2 422,152,467,219,1 102,88,427,298,1 23,171,47,190,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000741_car.jpg 413,56,500,133,2 6,38,500,375,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000862_cat.jpg 110,71,456,312,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000879_bird.jpg 119,121,237,291,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000923_dog.jpg 124,143,333,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000979_dog.jpg 75,189,211,331,4 273,220,412,347,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_000989_dog.jpg 256,118,312,194,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001016_cat.jpg 1,101,444,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001052_dog.jpg 163,75,431,233,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001078_car.jpg 56,87,102,112,2 180,59,212,75,2 278,55,286,62,2 285,56,298,62,2 242,62,257,70,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001208_bird.jpg 251,163,378,313,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001240_car.jpg 1,225,205,341,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001255_car.jpg 19,1,500,172,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001301_bird.jpg 1,92,329,500,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001314_bird.jpg 105,131,290,318,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001361_cat.jpg 32,38,497,293,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001472_bus.jpg 30,48,460,331,1 448,208,496,240,2 1,162,37,221,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001522_cat.jpg 135,31,444,302,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001538_dog.jpg 74,73,375,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001550_cat.jpg 32,28,485,374,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001554_bird.jpg 213,132,347,230,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001605_dog.jpg 153,140,270,267,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001606_dog.jpg 1,64,500,336,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001623_cat.jpg 324,122,387,267,3 298,138,424,207,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001677_car.jpg 1,52,28,84,2 15,51,69,85,2 59,45,132,89,2 114,30,169,77,2 164,36,208,63,2 207,36,229,59,2 222,29,255,61,2 291,37,349,71,2 339,38,426,76,2 416,29,500,79,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001782_car.jpg 19,80,448,275,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001822_bus.jpg 32,1,444,333,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001835_cat.jpg 92,1,375,500,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001885_dog.jpg 247,26,500,333,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001917_car.jpg 1,96,413,289,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_001929_bird.jpg 21,30,455,250,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002044_car.jpg 399,20,422,39,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002057_car.jpg 420,258,500,364,2 167,164,368,291,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002093_dog.jpg 59,58,414,333,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002117_car.jpg 48,85,426,242,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002152_bus.jpg 29,97,467,313,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002177_dog.jpg 340,91,500,269,4 171,125,303,226,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002197_car.jpg 157,47,183,63,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002198_dog.jpg 71,236,345,313,4 40,51,437,279,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002203_car.jpg 113,134,320,264,1 102,181,112,229,1 26,172,100,237,1 476,204,497,221,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002228_cat.jpg 61,36,273,474,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002238_car.jpg 1,12,403,409,1 390,194,500,268,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002271_bus.jpg 303,1,500,204,1 1,120,264,242,2 184,125,263,156,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002273_dog.jpg 187,113,374,291,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002286_bird.jpg 169,105,348,211,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002298_bird.jpg 14,40,471,266,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002333_dog.jpg 1,52,343,333,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002424_car.jpg 105,93,342,266,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002436_bus.jpg 31,12,447,301,1 473,189,493,210,2 442,193,462,209,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002439_cat.jpg 254,95,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002532_car.jpg 47,249,70,272,2 70,118,357,317,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002570_car.jpg 439,168,500,246,2 1,64,89,224,1 86,100,191,222,1 198,98,280,206,1 285,106,351,206,1 359,110,429,213,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002629_bird.jpg 54,134,257,369,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002632_car.jpg 142,52,417,254,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002784_car.jpg 239,53,282,158,4 301,34,500,164,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002789_dog.jpg 225,40,379,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002824_car.jpg 1,86,33,109,2 1,82,208,178,2 177,72,199,92,2 183,71,206,100,2 205,70,242,98,2 255,47,334,92,2 361,54,500,108,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002933_bus.jpg 357,79,500,321,1 61,45,421,375,1 1,221,67,291,2 31,197,58,221,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_002971_car.jpg 110,70,459,228,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003052_bird.jpg 198,194,311,288,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003098_dog.jpg 247,97,416,219,4 1,17,299,203,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003143_cat.jpg 1,12,419,482,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003200_bus.jpg 80,163,336,293,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003259_bird.jpg 213,124,288,260,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003592_bus.jpg 5,126,466,288,1 468,206,500,239,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003614_bus.jpg 54,115,411,298,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003640_bird.jpg 91,96,360,315,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003685_bird.jpg 75,49,296,473,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003714_dog.jpg 95,12,323,232,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003722_car.jpg 1,1,292,181,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003816_dog.jpg 294,69,439,275,4 113,32,265,272,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003827_dog.jpg 240,84,412,180,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003847_cat.jpg 112,36,500,370,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003867_cat.jpg 1,1,375,345,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003902_dog.jpg 1,1,294,293,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003911_bird.jpg 117,169,181,278,0 317,151,376,171,0 443,120,465,154,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_003912_bird.jpg 105,94,500,225,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004001_bird.jpg 61,11,435,333,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004037_bus.jpg 345,196,354,206,2 319,196,331,209,2 333,197,352,213,2 58,122,324,285,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004052_bus.jpg 49,36,440,302,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004074_dog.jpg 136,200,397,355,4 68,21,316,231,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004084_bird.jpg 51,117,225,441,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004103_bird.jpg 131,51,401,333,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004111_dog.jpg 1,150,333,374,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004234_cat.jpg 128,6,330,275,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004350_bus.jpg 70,141,382,321,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004361_dog.jpg 1,48,375,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004382_cat.jpg 50,1,264,500,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004456_cat.jpg 42,34,483,336,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004504_cat.jpg 59,120,253,469,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004532_car.jpg 385,81,459,124,2 380,90,429,129,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004630_car.jpg 48,252,179,302,2 16,253,100,294,2 2,262,22,288,2 1,249,39,268,2 187,253,227,276,2 211,245,276,279,2 236,253,305,280,2 278,248,316,265,2 302,254,334,269,2 310,250,370,283,2 363,253,398,264,2 483,253,500,274,2 417,252,456,263,2 444,247,471,265,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004681_bus.jpg 96,54,395,302,1 3,162,96,248,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004721_cat.jpg 42,25,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004728_dog.jpg 184,3,421,302,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004782_dog.jpg 1,219,256,366,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004903_car.jpg 1,23,117,142,2 19,43,471,304,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_004946_bird.jpg 1,60,224,500,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005033_cat.jpg 1,16,357,486,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005085_car.jpg 117,114,442,333,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005133_car.jpg 445,196,500,235,2 390,191,468,215,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005185_dog.jpg 257,224,384,270,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005211_cat.jpg 1,103,369,339,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005225_dog.jpg 273,190,288,218,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005234_bird.jpg 162,158,237,270,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005236_cat.jpg 15,15,259,327,3 105,159,334,377,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005251_cat.jpg 1,1,333,500,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2009_005294_car.jpg 77,210,187,266,2 318,220,444,296,2 36,212,328,375,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000033_dog.jpg 83,9,377,306,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000036_car.jpg 33,93,450,318,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000069_bus.jpg 47,6,463,341,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000090_dog.jpg 139,34,380,360,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000152_dog.jpg 2,12,500,433,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000187_bus.jpg 80,17,425,348,1 274,51,499,308,1 17,121,88,260,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000261_cat.jpg 116,97,500,500,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000347_cat.jpg 1,58,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000374_cat.jpg 234,30,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000409_cat.jpg 1,1,475,320,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000480_car.jpg 128,79,414,293,1 426,166,500,254,1 1,228,96,274,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000552_cat.jpg 110,119,500,375,3 1,60,298,305,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000576_cat.jpg 23,33,460,423,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000582_car.jpg 1,41,459,375,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000645_car.jpg 1,203,60,283,2 28,212,137,253,2 273,211,334,232,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000655_dog.jpg 3,11,304,277,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000682_car.jpg 94,35,339,211,1 41,116,86,137,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000683_cat.jpg 1,126,361,334,3 273,58,500,266,3 1,23,336,201,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000760_dog.jpg 195,120,401,320,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000770_bus.jpg 120,261,348,370,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000797_bus.jpg 374,180,500,232,1 58,169,250,234,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000815_cat.jpg 1,37,465,272,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000926_dog.jpg 1,1,403,309,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000947_bus.jpg 288,78,463,294,1 56,144,293,285,1 460,221,500,257,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_000989_dog.jpg 29,149,346,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001009_dog.jpg 119,1,381,329,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001080_car.jpg 44,121,490,375,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001117_car.jpg 339,55,500,122,2 58,74,411,276,2 1,55,45,88,2 102,64,155,91,2 63,60,119,91,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001121_car.jpg 380,85,500,321,2 43,84,383,253,2 1,83,168,200,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001215_cat.jpg 108,19,446,150,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001220_car.jpg 1,1,500,375,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001242_dog.jpg 179,24,422,333,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001337_dog.jpg 94,315,138,359,4 207,198,333,387,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001370_dog.jpg 1,51,305,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001385_cat.jpg 154,49,397,282,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001449_car.jpg 2,119,391,354,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001453_bus.jpg 102,66,360,252,1 1,182,38,210,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001520_bird.jpg 104,165,236,334,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001626_dog.jpg 1,1,375,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001637_cat.jpg 124,1,500,453,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001647_cat.jpg 10,62,500,289,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001659_dog.jpg 165,102,232,247,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001669_car.jpg 22,150,77,202,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001705_dog.jpg 93,36,365,344,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001715_dog.jpg 1,25,337,377,4 251,165,489,354,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001744_cat.jpg 3,78,500,357,3 1,102,265,254,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001757_car.jpg 163,172,500,375,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001770_car.jpg 113,182,155,197,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001783_cat.jpg 1,52,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001896_dog.jpg 1,1,500,263,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001927_bird.jpg 116,26,439,208,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_001994_cat.jpg 81,9,277,408,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002022_dog.jpg 113,42,326,316,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002023_bird.jpg 145,27,448,257,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002037_dog.jpg 191,134,477,333,4 2,85,177,253,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002048_car.jpg 104,108,460,263,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002067_dog.jpg 154,154,253,250,4 166,194,384,289,4 46,110,117,177,4 330,182,388,213,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002142_bird.jpg 183,80,374,274,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002287_dog.jpg 207,83,500,322,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002319_dog.jpg 153,157,201,257,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002348_cat.jpg 66,2,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002365_dog.jpg 281,204,416,329,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002392_cat.jpg 2,18,500,483,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002485_cat.jpg 1,1,451,399,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002516_car.jpg 439,101,500,141,2 200,92,255,112,2 82,87,205,156,2 1,88,88,183,2 280,94,387,145,2 19,106,382,346,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002570_dog.jpg 14,149,199,458,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002594_cat.jpg 50,57,429,362,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002601_dog.jpg 125,88,500,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002702_car.jpg 36,209,104,264,2 1,231,35,273,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002758_bus.jpg 53,62,450,301,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002763_cat.jpg 212,321,324,404,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002775_dog.jpg 1,87,285,374,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002805_dog.jpg 1,37,401,368,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002824_dog.jpg 1,1,425,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002873_bird.jpg 86,136,355,248,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002903_car.jpg 1,121,398,348,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002909_cat.jpg 1,69,450,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002963_cat.jpg 108,154,435,320,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002965_cat.jpg 171,65,500,303,3 72,130,187,227,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002972_dog.jpg 1,1,500,334,4 61,191,281,334,4 1,122,137,334,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_002979_dog.jpg 1,95,412,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003047_car.jpg 1,1,485,327,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003056_dog.jpg 110,45,278,263,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003139_car.jpg 42,66,426,258,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003168_bird.jpg 74,51,284,176,0 171,193,258,253,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003173_bus.jpg 80,61,475,336,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003249_cat.jpg 156,1,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003309_cat.jpg 6,1,486,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003331_dog.jpg 127,116,327,307,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003418_bird.jpg 158,32,322,267,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003427_cat.jpg 54,1,457,269,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003450_car.jpg 1,1,500,240,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003481_car.jpg 327,192,500,332,3 9,1,500,285,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003483_cat.jpg 24,63,436,354,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003503_bird.jpg 188,78,363,236,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003509_cat.jpg 2,1,500,332,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003537_car.jpg 10,34,458,333,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003554_dog.jpg 106,47,390,350,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003643_dog.jpg 203,98,405,332,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003648_bird.jpg 196,81,378,293,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003690_dog.jpg 225,135,375,285,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003730_car.jpg 29,94,448,266,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003771_bird.jpg 175,84,365,332,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003784_dog.jpg 297,77,422,319,4 46,82,184,276,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003791_dog.jpg 1,75,338,465,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003818_cat.jpg 110,52,500,374,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003859_dog.jpg 207,201,321,240,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003875_cat.jpg 44,36,453,339,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003893_car.jpg 1,139,448,314,1 1,247,126,348,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003920_dog.jpg 1,6,417,488,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003928_cat.jpg 1,65,448,288,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_003936_bus.jpg 50,26,404,284,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004052_dog.jpg 12,31,487,368,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004071_bird.jpg 49,182,91,208,0 140,287,198,325,0 268,271,301,297,0 280,329,319,357,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004144_cat.jpg 18,91,269,234,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004216_dog.jpg 1,1,390,282,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004239_car.jpg 1,112,499,431,2 1,72,128,315,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004244_cat.jpg 1,120,247,433,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004257_cat.jpg 302,66,500,344,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004333_car.jpg 74,41,441,316,2 407,98,480,143,2 383,100,438,143,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004346_cat.jpg 1,41,450,294,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004352_bird.jpg 104,221,161,374,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004422_car.jpg 309,1,500,203,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004581_car.jpg 60,53,368,226,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004616_bus.jpg 1,84,460,375,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004667_cat.jpg 91,39,500,308,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004676_cat.jpg 1,136,500,499,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004683_dog.jpg 174,66,395,243,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004686_car.jpg 291,348,355,480,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004770_dog.jpg 80,32,500,359,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004795_dog.jpg 153,135,329,241,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004815_cat.jpg 65,207,207,500,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004829_cat.jpg 132,1,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004928_dog.jpg 113,55,474,374,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_004960_bird.jpg 240,143,303,238,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005016_bird.jpg 7,85,496,355,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005053_bird.jpg 87,87,256,223,0 61,100,448,219,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005123_bus.jpg 117,194,218,244,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005149_dog.jpg 22,57,325,492,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005202_cat.jpg 181,125,500,333,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005246_dog.jpg 47,1,472,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005257_cat.jpg 38,225,183,339,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005284_car.jpg 87,25,411,268,1 423,163,464,203,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005344_cat.jpg 33,164,444,374,3 39,14,338,230,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005391_dog.jpg 28,69,494,341,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005501_car.jpg 137,1,500,206,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005502_car.jpg 109,133,215,217,1 211,164,273,214,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005546_car.jpg 65,86,489,251,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005551_cat.jpg 41,20,500,462,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005615_dog.jpg 22,48,369,300,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005636_bus.jpg 84,45,488,310,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005658_dog.jpg 309,149,474,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005709_cat.jpg 62,168,253,311,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005725_bird.jpg 168,100,423,376,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005732_cat.jpg 181,1,500,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005747_dog.jpg 81,97,308,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005752_car.jpg 2,116,359,466,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005821_cat.jpg 48,11,240,243,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005903_cat.jpg 24,19,408,333,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_005914_dog.jpg 164,16,373,267,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_006003_car.jpg 162,199,220,248,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2010_006033_car.jpg 1,1,500,306,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000229_cat.jpg 19,46,330,309,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000320_bird.jpg 198,77,292,280,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000456_bird.jpg 284,78,402,294,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000542_dog.jpg 1,1,450,375,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000596_cat.jpg 132,69,287,266,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000769_cat.jpg 214,83,399,375,3 2,52,282,375,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000788_dog.jpg 107,54,449,362,4 70,178,210,257,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000831_bird.jpg 94,110,287,500,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_000999_cat.jpg 16,21,403,468,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001135_cat.jpg 13,130,271,426,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001173_cat.jpg 2,61,478,358,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001189_bird.jpg 129,121,205,182,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001432_bird.jpg 49,65,487,375,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001712_bird.jpg 46,40,260,500,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001714_dog.jpg 146,134,340,329,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001866_bird.jpg 1,21,428,400,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001873_bird.jpg 228,144,483,315,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001891_car.jpg 268,105,500,240,2 68,102,315,275,2 433,82,500,121,2 340,84,437,110,2 241,87,315,125,2 136,88,216,125,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001929_car.jpg 44,88,321,228,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001959_bird.jpg 222,140,287,200,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001961_car.jpg 96,35,176,78,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_001982_car.jpg 43,117,449,303,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002040_dog.jpg 5,34,483,479,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002143_car.jpg 220,287,273,361,2 45,261,167,387,2 155,289,186,368,2 171,293,221,347,2 253,286,295,383,2 82,137,245,195,2 233,111,375,247,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002253_car.jpg 1,29,494,374,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002295_bird.jpg 190,81,315,252,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002330_bus.jpg 82,62,404,246,1 422,108,478,166,1 467,107,500,179,1
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002381_bird.jpg 80,9,368,207,0 67,368,220,484,0 136,312,370,442,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002384_car.jpg 28,157,397,246,1 305,217,494,316,2 433,208,500,249,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002389_cat.jpg 1,131,316,264,3
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002407_bird.jpg 6,47,315,500,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002410_car.jpg 18,85,479,282,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002526_car.jpg 263,170,366,246,2 243,176,273,213,2 214,180,266,210,2 468,187,500,206,2 387,186,421,200,2
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002776_bird.jpg 154,161,369,373,0
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002823_dog.jpg 33,38,302,500,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_002938_dog.jpg 334,1,499,273,4 1,29,448,330,4
+D:\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2011_003176_car.jpg 285,214,307,229,2
